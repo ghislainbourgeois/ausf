@@ -1,6 +1,6 @@
 module github.com/omec-project/ausf
 
-go 1.14
+go 1.16
 
 require (
 	github.com/antihax/optional v1.0.0
@@ -11,7 +11,7 @@ require (
 	github.com/google/gopacket v1.1.19
 	github.com/google/uuid v1.1.2
 	github.com/omec-project/UeauCommon v1.1.0
-	github.com/omec-project/config5g v1.1.0
+	github.com/omec-project/config5g v1.2.0
 	github.com/omec-project/http2_util v1.1.0
 	github.com/omec-project/http_wrapper v1.1.0
 	github.com/omec-project/logger_util v1.1.0
